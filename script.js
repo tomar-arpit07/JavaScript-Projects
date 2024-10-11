@@ -5,9 +5,6 @@ const turnMusic = new Audio("ting.mp3");
 let turn = "X";
 let isgameOver = false;
 
-// let playMusic = document.querySelector(".playmusic");
-// playMusic.addEventListener("click", music.p);
-
 const checkWin = () =>{
     let textbox = document.querySelectorAll(".boxtext");
     let wins = [

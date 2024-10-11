@@ -17,21 +17,6 @@ nav p{
     margin-left: 10px;
 }
 
-/* .playmusicParent{
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-}
-
-.playmusic{
-    padding: 5px 10px;
-    border-radius: 5px;
-    background-color: rgb(86 15 86);
-    color: white;
-    cursor: pointer;
-} */
-
-
 .container{
     display: flex;
     margin-top: 50px;
